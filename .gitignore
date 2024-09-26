@@ -1,0 +1,4 @@
+hpcfi-llvm-project/
+hpcfi-svf/
+example/main
+*.o
